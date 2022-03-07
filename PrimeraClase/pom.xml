@@ -4,12 +4,11 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>Academia</groupId>
-    <artifactId>ejemplos</artifactId>
+    <groupId>org.example</groupId>
+    <artifactId>PrimeraClase</artifactId>
     <version>1.0-SNAPSHOT</version>
-    <packaging>jar</packaging>
 
-    <name>Academia</name>
+    <name>PrimeraClase</name>
     <url>http://maven.apache.org</url>
 
     <properties>
